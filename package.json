@@ -1,7 +1,11 @@
 {
   "name": "mobile",
   "version": "0.0.1",
-  "private": true,
+  "author": {
+    "name": "Lucas Gomes",
+    "email": "lucas.sbgomes@gmail.com",
+    "url": "https://gomes.eti.br/"
+  },
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
